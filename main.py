@@ -1,5 +1,5 @@
 # loan_calculator is a program to calculate different financial parameters and help you make an informed descision.
-# The program can be directly run through the command line.
+# The program can be directly run through the command line. 
 
 # modules
 import math
